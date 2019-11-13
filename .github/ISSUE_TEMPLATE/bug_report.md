@@ -1,14 +1,27 @@
-# Bug Info
-Describe the bug
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: bug
+assignees: ''
 
-# What is the Expected behavior?
-What is suppose to happen
+---
 
-# Reproduce Error
-How can this be reproduced?
+# Describe the bug
+A clear and concise description of what the bug is.
 
-# Suggestion
-Suggestion to how can this be resolved?
+# To Reproduce**
+Steps to reproduce the behavior:
+
+# Expected behavior 
+A clear and concise description of what you expected to happen.
+
+#Improvements
+Add suggestions to fix current situtation
 
 
-**Additional Notes**
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Additional context**
+Add any other context about the problem here.
