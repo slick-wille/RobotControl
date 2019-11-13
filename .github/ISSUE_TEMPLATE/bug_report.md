@@ -1,7 +1,7 @@
 # Bug Info
 Describe the bug
 
-# What is the Expected behavior
+# What is the Expected behavior?
 What is suppose to happen
 
 # Reproduce Error
